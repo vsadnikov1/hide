@@ -8,7 +8,7 @@ $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 
 /* Geo filter: Display offer page only to visitors from allowed countries.  */
 /* For example, if you enter 'RU,UA' in the next line, system will only allow users from Russia and Ukraine */
- $CLOAKING['ALLOW_GEO'] = 'PH';
+ $CLOAKING['ALLOW_GEO'] = 'RU';
 
 /* Blocked Geo filter: Hide offer page from visitors of selected countries.  */
 /* For example, if you enter 'IN,CN' in the next line, system will block users from India and China */
